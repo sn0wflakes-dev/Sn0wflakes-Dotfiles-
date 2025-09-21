@@ -1,2 +1,2 @@
-# Sn0wflakes-Dotfiles-
+# Sn0wflakes-Dotfiles
 Personal dotfiles for nixos
