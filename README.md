@@ -8,15 +8,35 @@ My personal dotfiles for NixOS.
 
 ## Structure
 Each directory inside this repo represents a configuration for a specific program
+
+```
 Dotfiles/
 ├── alacritty/
 │ └── alacritty.toml
+├── btop/
+│ └── btop.conf
+├── dunst/
+│ └── dunstrc
+├── hypr/
+│ ├── hyprland.conf
+│ └── hyprpaper.conf
+├── neofetch/
+│ └── config.conf
+├── nvim/
+│ ├── init.lua
+│ └── lua/
+│ └── ...
+├── oh-my-posh/
+│ └── theme.json
 ├── waybar/
 │ ├── config.jsonc
+│ ├── config_external.jsonc
 │ ├── style.css
+│ ├── macchiato.css
 │ └── waybar.sh
-└── hypr/
-└── hyprland.conf
+└── wofi/
+└── config
+```
 
 ## Usage
 
